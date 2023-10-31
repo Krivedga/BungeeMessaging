@@ -1,0 +1,3 @@
+name: BungeeMessaging
+version: '${project.version}'
+main: yurelax.dev.bungeemessaging.BungeeMessaging

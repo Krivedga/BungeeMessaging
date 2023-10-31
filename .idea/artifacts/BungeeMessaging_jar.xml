@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BungeeMessaging:jar">
+    <output-path>$PROJECT_DIR$/../../../yuRelaxServer/bungeeCord/plugins</output-path>
+    <root id="archive" name="BungeeMessaging.jar">
+      <element id="module-output" name="BungeeMessaging" />
+    </root>
+  </artifact>
+</component>
